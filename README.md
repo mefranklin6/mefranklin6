@@ -22,7 +22,7 @@ If you're here, i'm guessing you saw one of those niche projects.
 
 You might also enjoy some of the other projects I created and maintain, including:
 - [REST API Microservice for Extron Devices](https://github.com/Dartmouth-OpenAV/microservice-extron-sis)
-- [REST API Microservice for APC Switched Power Distribution Units](https://github.com/Dartmouth-OpenAV/microservice-extron-sis)
+- [REST API Microservice for APC Switched Power Distribution Units](https://github.com/Dartmouth-OpenAV/microservice-apc-pdu)
 
 Other cool projects from cool people:
 - [Dartmouth OpenAV: A Free and Open Source Commercial AV Control System](https://github.com/Dartmouth-OpenAV)
